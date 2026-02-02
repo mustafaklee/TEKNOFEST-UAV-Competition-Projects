@@ -10,7 +10,7 @@ The projects focus on autonomous mission execution combining image processing, r
 
 ### 1. QR Code Detection and Kamikaze Maneuver
 
-<video src="Kamikaze-Demo/kamikaze.mp4" controls width="600"></video>
+(https://github.com/mustafaklee/TEKNOFEST-UAV-Competition-Projects/blob/main/Delivery-and-Retrieval-Demo/Gorev-Videosu.mp4)
 The fixed-wing UAV executes the following sequence:
 
 - Autonomous flight to designated area

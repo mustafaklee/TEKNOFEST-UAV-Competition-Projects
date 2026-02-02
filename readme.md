@@ -9,8 +9,9 @@ The projects focus on autonomous mission execution combining image processing, r
 ## Missions
 
 ### 1. QR Code Detection and Kamikaze Maneuver
-[![Videoyu izleyin]
-(https://github.com/mustafaklee/TEKNOFEST-UAV-Competition-Projects/blob/main/Delivery-and-Retrieval-Demo/Gorev-Videosu.mp4)]
+
+https://github.com/user-attachments/assets/4bc6c290-64b5-42be-a6e6-109356aca7ff
+
 The fixed-wing UAV executes the following sequence:
 
 - Autonomous flight to designated area
@@ -26,7 +27,8 @@ The fixed-wing UAV executes the following sequence:
 
 ### 2. Precision Payload Delivery and Retrieval
 
-![Delivery and Retrieval Demo](Delivery-and-Retrieval-Demo/Gorev-Videosu.mp4)
+https://github.com/user-attachments/assets/09ff3b75-4f84-4b90-8acf-2a2f28b78888
+
 
 This mission demonstrates autonomous payload management with geometric target recognition:
 
@@ -52,7 +54,7 @@ This mission demonstrates autonomous payload management with geometric target re
 
 ### 3. Dynamic Target Tracking
 
-![Fixed-wing-uav-tracking-Demo Demo](Fixed-wing-uav-tracking-Demo/Fixed-wing-uav-tracking-Demo.mp4)
+https://github.com/user-attachments/assets/a4424f2f-39e2-4b1a-90d3-a9ae2311c8b0
 
 Real-time tracking of a moving target UAV:
 
@@ -72,7 +74,7 @@ Real-time tracking of a moving target UAV:
 
 ### Waypoint Navigation System
 
-![Waypoint-Navigation-System-Demo Demo](Waypoint-Navigation-System-Demo/Waypoint-Navigation-System-Demo.mp4)
+https://github.com/user-attachments/assets/b2dca2fd-21c5-41b8-b3a0-1005f9d1a2e1
 
 A robust waypoint navigation framework that enables:
 

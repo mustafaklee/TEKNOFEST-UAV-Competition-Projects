@@ -10,7 +10,7 @@ The projects focus on autonomous mission execution combining image processing, r
 
 ### 1. QR Code Detection and Kamikaze Maneuver
 
-![Kamikaze Demo](Kamikaze-Demo/kamikaze.mp4)
+[Kamikaze Demo Video](Kamikaze-Demo/kamikaze.mp4)
 
 The fixed-wing UAV executes the following sequence:
 
